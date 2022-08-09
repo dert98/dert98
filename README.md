@@ -1,4 +1,4 @@
-<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Gastón <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
+<h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Oscar Ruiz <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
 - 🧔🏻 I'm 36 years old and I'm from La plata, Buenos Aires, Argentina.
 - 🌐 Checkout my [Portfolio](https://github.com/dert98) to find out more about me and my projects.
