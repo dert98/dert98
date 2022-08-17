@@ -50,8 +50,18 @@ Visitor count:
 |---|---|---|---|---|
 
 ## 📊 Stats:
+<div align="center">
 
-<h3 align="center">
+| | |
+|--|--|
+| ![dert98's GitHub stats](https://github-readme-stats.vercel.app/api?username=dert98&show_icons=true&theme=radical)| ![dert98 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dert98&layout=compact&theme=radical) |
+| | |
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=dert98&count_private=true&hide=stars,issues&show_icons=true&theme=chartreuse-dark)
-</h3>
+<div align="center">
+
+| | 
+|--|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical) |
+
+</div>
