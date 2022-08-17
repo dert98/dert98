@@ -3,7 +3,21 @@
 - 🧔🏻 I'm 36 years old and I'm from La plata, Buenos Aires, Argentina.
 - 🌐 Checkout my [Portfolio](https://github.com/dert98) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/dert-driver-4180121b1/) or [E-Mail](mailto:dertdriver@gmail).
+```js 
+const AboutMe = {
+  name: ["Ruiz Oscar"],
+  age: ["36"], 
+  country: ["Peru","Argentina"],
+  languages: ["English", "Spanish"],
+  studies: ["No Country"]
+}
 
+if (you = "Need Frontend Developer") {
+  sendMeEmail("rosamaria.developer@gmail.com");
+} else {
+  inviteYou("See my portfolio");
+}
+```
 <h3 align="center">
 
 Visitor count:
