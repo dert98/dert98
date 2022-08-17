@@ -10,7 +10,7 @@ const AboutMe = {
 }
 
 if (you = "Need Frontend Developer") {
-  sendMeEmail("rosamaria.developer@gmail.com");
+  sendMeEmail("dert98@hotmail.com");
 } else {
   inviteYou("See my portfolio");
 }
